@@ -5,7 +5,7 @@ app = Flask(__name__)
 # Datos de usuarios
 users = {
     "juan": "admin",
-    "pepe": "user"
+    "pepes": "user"
 }
 
 
